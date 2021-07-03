@@ -1,1 +1,10 @@
+# Purchase to read more
+
 *://member.selfhostedserver.com/*
+
+# Scan QR to read more
+
+*://lucifer.ren/*
+*://www.kchuhai.com/*
+
+# Login to read more
