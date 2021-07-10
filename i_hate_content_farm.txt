@@ -1,3 +1,4 @@
 *://www.huaweicloud.com/articles/*
 # 这个应该是csdn站点robots配置错误导致的，先暂时放在这里
 *://www.csdn.net/tags/*
+*://answerlib.com/*
