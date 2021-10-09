@@ -8,5 +8,6 @@
 *://www.kchuhai.com/*
 *://www.cnkirito.moe/*
 *://www.iocoder.cn/*
+*://www.xttblog.com/*
 
 # Login to read more
